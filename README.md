@@ -1,2 +1,3 @@
-Enter README here but I'm too lazy
+Is this a readme?  
+Cool.  
 Alt: @22yeetz22
